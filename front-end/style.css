@@ -1,0 +1,21 @@
+#studentDetails {
+    width: 400px;
+    margin: 20px auto;
+}
+
+#studentDetails div {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#studentDetails h3 {
+    color: purple;
+}
+
+#studentDetails p {
+    color: #333;
+}
